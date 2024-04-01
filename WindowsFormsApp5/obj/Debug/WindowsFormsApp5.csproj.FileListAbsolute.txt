@@ -1,0 +1,12 @@
+C:\Users\roman\source\repos\WindowsFormsApp1\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\roman\source\repos\WindowsFormsApp1\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\roman\source\repos\WindowsFormsApp1\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\roman\source\repos\WindowsFormsApp1\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\roman\source\repos\WindowsFormsApp1\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.SuggestedBindingRedirects.cache
+C:\Users\roman\source\repos\WindowsFormsApp1\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.CodesForm.resources
+C:\Users\roman\source\repos\WindowsFormsApp1\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\roman\source\repos\WindowsFormsApp1\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\roman\source\repos\WindowsFormsApp1\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\roman\source\repos\WindowsFormsApp1\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\WindowsFormsApp1\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\roman\source\repos\WindowsFormsApp1\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
